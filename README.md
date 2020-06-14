@@ -25,11 +25,6 @@ Curso de Node.js, ReactJS e React Native na linguagem TypeScript, ministrado pel
   <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/master/README.md#como-rodar">Como rodar</a></li>
 </ul>
 
-- [Aplicação](#aplicacao)
-- [Tecnologias](#tecnologias)
-- [Como rodar](#como-rodar)
-
-<a id="aplicacao"></a>
 <h2>🎈 Aplicação</h2>
 
 <p align="center">
@@ -61,7 +56,6 @@ descartáveis diversos, como lâmpadas, baterias e óleo de cozinha. O Ecoleta o
   </div>
 </div>
 
-<a id="tecnologias"></a>
 <h2>⚙️ Tecnologias</h2>
 
 O sistema, escrito em <a href="https://www.typescriptlang.org/">TypeScript</a>, é composto por 3 módulos:
@@ -101,7 +95,6 @@ O sistema, escrito em <a href="https://www.typescriptlang.org/">TypeScript</a>, 
   </ul>
 </ul>
 
-<a id="como-rodar"></a>
 <h2>🎡 Como rodar</h2>
 
 É necessário ter o <a href="https://git-scm.com">Git</a>, o <a href="https://nodejs.org">Node.js</a> e um gerenciador de pacotes (<a href="https://www.npmjs.com">npm</a> 
