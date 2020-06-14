@@ -20,9 +20,9 @@ Curso de Node.js, ReactJS e React Native na linguagem TypeScript, ministrado pel
 
 <h2>📁 Sumário</h2>
 <ul>
-  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/master/README.md#aplica%C3%A7%C3%A3o">Aplicação</a></li>
-  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/master/README.md#%EF%B8%8Ftecnologias">Tecnologias</a></li>
-  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/master/README.md#como-rodar">Como rodar</a></li>
+  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01#aplica%C3%A7%C3%A3o">Aplicação</a></li>
+  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01#%EF%B8%8Ftecnologias">Tecnologias</a></li>
+  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01#como-rodar">Como rodar</a></li>
 </ul>
 
 <h2>🎈 Aplicação</h2>
