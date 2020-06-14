@@ -37,7 +37,7 @@ const Dropzone: React.FC<Props> = ({ onFileUploaded }) => {
 						Imagem do estabelecimento
 					</p>
 				)
-			};
+			}
 		</div>
 	);
 };

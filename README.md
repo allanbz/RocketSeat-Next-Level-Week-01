@@ -45,10 +45,10 @@ descartáveis diversos, como lâmpadas, baterias e óleo de cozinha. O Ecoleta o
 </div>
 <br/>
 <div class="row">
-  <div class="column" align="left">
+  <div class="column">
     <img width="305" height="560" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/mobile-home.jpg">
   </div>
-  <div class="column" align="center">
+  <div class="column">
     <img width="305" height="560" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/mobile-busca.jpg">
   </div>
   <div class="column">
