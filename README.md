@@ -1,27 +1,67 @@
 <h1>🚀 Next Level Week #01</h1>
-(logo-nlv)
 
-(badges)
+<p align="center">
+  <img width="250" height="250" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/logo-nlw.svg">
+</p>
+
+<p align="center">
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/static/v1?label=Node&message=JS&color=blue?style=plastic&logo=Node.js" alt="NodeJS" />
+  </a>
+  <a href="https://reactjs.org">
+    <img src="https://img.shields.io/static/v1?label=React&message=JS&color=blue?style=plastic&logo=React" alt="ReactJS" />
+  </a>
+  <a href="https://reactnative.dev">
+    <img src="https://img.shields.io/static/v1?label=React&message=Native&color=blue?style=plastic&logo=React" alt="React-Native" />
+  </a>
+</p>
 
 Curso de Node.js, ReactJS e React Native na linguagem TypeScript, ministrado pela <a href="https://github.com/rocketseat">RocketSeat</a>.
 
 <h2>📁 Sumário</h2>
 <ul>
-  <li><a href="">Aplicação</a></li>
-  <li><a href="">Tecnologias</a></li>
-  <li><a href="">Como rodar</a></li>
+  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/master/README.md#aplica%C3%A7%C3%A3o">Aplicação</a></li>
+  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/master/README.md#%EF%B8%8Ftecnologias">Tecnologias</a></li>
+  <li><a href="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/master/README.md#como-rodar">Como rodar</a></li>
 </ul>
 
+- [Aplicação](#aplicacao)
+- [Tecnologias](#tecnologias)
+- [Como rodar](#como-rodar)
+
+<a id="aplicacao"></a>
 <h2>🎈 Aplicação</h2>
 
-(logo-ecoleta)
+<p align="center">
+  <img width="350" height="100" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/logo-ecoleta.svg">
+</p>
 
 Durante o curso foi desenvolvida a aplicação "Ecoleta", direcionada para o cadastro e a consulta de pontos de coleta de materiais 
-descartáveis diversos, como lâmpadas, baterias e óleo de cozinha. Os pontos oferecem a localização e o contato do órgão responsável
-pela coleta.
+descartáveis diversos, como lâmpadas, baterias e óleo de cozinha. O Ecoleta oferece uma opção de busca por região, além de um filtro relacionado ao tipo de material que deseja descartar. Os pontos listados na aplicação contém a localização e o contato do órgão responsável pela coleta.
 
-(screenshots)
+<div class="column">
+  <div class="row">
+    <img width="1024" height="560" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/web-home.png">
+  </div>
+  <br/>
+  <div class="row">
+    <img width="1024" height="560" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/web-cadastro.png">
+  </div>
+</div>
+<br/>
+<div class="row">
+  <div class="column" align="left">
+    <img width="305" height="560" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/mobile-home.jpg">
+  </div>
+  <div class="column" align="center">
+    <img width="305" height="560" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/mobile-busca.jpg">
+  </div>
+  <div class="column">
+    <img width="305" height="560" src="https://github.com/allanbz/RocketSeat-Next-Level-Week-01/blob/dev/readme-assets/mobile-detalhe.jpg">
+  </div>
+</div>
 
+<a id="tecnologias"></a>
 <h2>⚙️ Tecnologias</h2>
 
 O sistema, escrito em <a href="https://www.typescriptlang.org/">TypeScript</a>, é composto por 3 módulos:
@@ -61,6 +101,7 @@ O sistema, escrito em <a href="https://www.typescriptlang.org/">TypeScript</a>, 
   </ul>
 </ul>
 
+<a id="como-rodar"></a>
 <h2>🎡 Como rodar</h2>
 
 É necessário ter o <a href="https://git-scm.com">Git</a>, o <a href="https://nodejs.org">Node.js</a> e um gerenciador de pacotes (<a href="https://www.npmjs.com">npm</a> 
